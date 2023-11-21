@@ -1,1 +1,1 @@
-#NeoVim personnal configuraiton
+# Nvim conf
